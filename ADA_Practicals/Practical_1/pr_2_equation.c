@@ -5,7 +5,6 @@ int main(){
     int N, sum = 0;
 
     printf("Yashvi Jasoliya\n");
-    printf("210210116036\n");
 
     printf("Enter number N :- ");
     scanf("%d", &N);
