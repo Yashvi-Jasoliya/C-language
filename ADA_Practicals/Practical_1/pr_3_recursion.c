@@ -12,20 +12,16 @@ int sum(int n){
  }
 }
 
-
-
 int main(){
 
 int N;
 printf("Yashvi Jasoliya\n");
-printf("210210116036\n");
 
 printf("Enter the N :- ");
 scanf("%d", &N);
 
 int result = sum(N);
 printf("The sum of numbers from 1 to %d :- %d", N,result);
-
 
     return 0;
 }
