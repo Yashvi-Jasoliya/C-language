@@ -9,7 +9,7 @@ int sum(int n){
  // Recursive
  else{
     return n + sum(n - 1);
- }
+  }
  
 }
 
